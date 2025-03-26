@@ -1,0 +1,2 @@
+name: davi symbol: X points: 2
+name: felipe symbol: O points: 0
